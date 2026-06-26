@@ -1,0 +1,8 @@
+numpy>=1.24
+scipy>=1.10
+matplotlib>=3.7
+pandas>=2.0
+PyWavelets>=1.4
+EMD-signal>=1.5
+vmdpy>=0.2
+jupyter>=1.0
